@@ -1,0 +1,4 @@
+Use Run Java from the Run button drop down
+or
+java -cp .:path/to/jdbc/driver.jar TMS 
+to execute the file with dependencies or drivers
